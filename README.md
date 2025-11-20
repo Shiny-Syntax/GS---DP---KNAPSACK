@@ -70,7 +70,7 @@ Prática e eficiente.
 
 ---
 
-# 📁 **Estrutura do Repositório**
+# **Estrutura do Repositório**
 ```
 /
 │── README.md
@@ -79,7 +79,7 @@ Prática e eficiente.
 
 ---
 
-# ⚙️ **Requisitos e Dependências**
+# **Requisitos e Dependências**
 
 Este projeto não utiliza bibliotecas externas.  
 Requisitos:
@@ -89,7 +89,7 @@ Requisitos:
 
 ---
 
-# ▶️ **Como Executar**
+# **Como Executar**
 
 ### 1. Clone o repositório:
 
