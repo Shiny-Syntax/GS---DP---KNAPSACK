@@ -119,11 +119,12 @@ python knapsack.py
 Comprova que DP encontra a solução ótima e o Greedy não.
 
 # Análise de Complexidade
-Método	Complexidade de Tempo	Complexidade de Espaço
-Greedy	O(N log N)	O(N)
-Força Bruta	O(2ⁿ)	O(N)
-DP Top-Down	O(N × C)	O(N × C)
-DP Bottom-Up	O(N × C)	O(N × C)
+| Método	| Complexidade de Tempo	| Complexidade de Espaço |
+|---------|-----------------------|-----------------------|
+| Greedy |	O(N log N) | O(N) |
+| Força Bruta |	O(2ⁿ)	| O(N) |
+| DP Top-Down	| O(N × C) |	O(N × C) |
+| DP Bottom-Up	| O(N × C)	| O(N × C) |
 
 A análise detalhada encontra-se comentada no código.
 
